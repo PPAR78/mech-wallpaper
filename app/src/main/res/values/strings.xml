@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">메카 패럴랙스</string>
+    <string name="wallpaper_name">메카 패럴랙스 월페이퍼</string>
+    <string name="wallpaper_desc">기울이면 떠오르는 3D 패럴랙스 + 돌아가는 미래형 기계</string>
+    <string name="settings_title">MECH // PARALLAX</string>
+    <string name="depth_label">깊이 강도  %1$.2fx</string>
+    <string name="speed_label">기계 회전 속도  %1$.2fx</string>
+    <string name="particles_label">빛 입자 (코어로 빨려 들어감)</string>
+    <string name="heartbeat_label">심장박동 펄스 (끄면 호흡 펄스)</string>
+    <string name="apply_button">월페이퍼로 설정하기</string>
+    <string name="hint">내 사진을 쓰려면 res/drawable 에 background.png, glow.png, foreground.png 를 넣고 다시 빌드하세요. 파일이 없으면 코드로 그린 기계 화면이 나옵니다.</string>
+</resources>

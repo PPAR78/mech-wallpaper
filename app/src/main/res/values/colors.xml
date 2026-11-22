@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mech_bg">#FF0A0F15</color>
+    <color name="mech_cyan">#FF00E5FF</color>
+    <color name="mech_orange">#FFFF8A3D</color>
+    <color name="mech_text">#FFC8D6E0</color>
+</resources>
