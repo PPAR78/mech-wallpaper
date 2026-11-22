@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">메카 패럴랙스</string>
     <string name="wallpaper_name">메카 패럴랙스 월페이퍼</string>
-    <string name="wallpaper_desc">기울이면 떠오르는 3D 패럴랙스 + 돌아가는 미래형 기계</string>
+    <string name="wallpaper_desc">기울이면 깊어지는 네온 회로 박스 — 터널 링, 유리 큐브, 회전 리액터</string>
     <string name="settings_title">MECH // PARALLAX</string>
     <string name="depth_label">깊이 강도  %1$.2fx</string>
     <string name="speed_label">기계 회전 속도  %1$.2fx</string>
